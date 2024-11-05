@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odapaiga.github.io/GAX/sitemap_index.txt
+Sitemap: https://odapaiga.github.io/NMV/sitemap_index.txt
+Sitemap: https://odapaiga.github.io/qZA/sitemap_index.txt
+Sitemap: https://odapaiga.github.io/qsg/sitemap_index.txt
